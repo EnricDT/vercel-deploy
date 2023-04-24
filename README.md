@@ -3,9 +3,9 @@ to deploy the project:
 npm install in:
 
 1. sd folder
-2. login folder
-3. dashboard folder
-4. dashboard-admin folder
+2. login folder (if an error occurs, do "git init" first)
+3. dashboard folder (if an error occurs, do "git init" first)
+4. dashboard-admin folder (if an error occurs, do "git init" first)
 
 npm start:
 
